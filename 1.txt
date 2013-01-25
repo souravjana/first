@@ -9,3 +9,5 @@ write 4
 write 5
 
 write 6
+
+write 7
